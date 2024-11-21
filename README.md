@@ -1,16 +1,22 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/76708357/162738129-a9aa3391-385f-403d-8f36-6324549ff735.png" alt="Tailwind CSS: estilizando páginas com classes utilitárias"> </p>
+# Simulador de Tela de Inscrição da Newsletter
 
-<hr>
+Este projeto é uma simulação de uma página de inscrição para uma newsletter que tem como objetivo fornecer informações e novidades sobre o universo tech. Ele foi desenvolvido com foco na simplicidade e modernidade, utilizando **HTML** para estruturar o conteúdo e **Tailwind CSS** para estilização, garantindo um design responsivo e atraente.
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/76708357/162738365-c3bbc527-11ca-4626-9073-91a225f13534.png" alt="Alura Newsletter"> </p>
-<p align="center">Um site que simula a tela de inscrição da newsletter da Alura, um serviço que tem o objetivo de fornecer informações e novidades sobre o universo tech.</p>
+O projeto reproduz uma interface intuitiva e funcional, simulando uma experiência real de inscrição, com campos de entrada para e-mail, mensagens de confirmação e botões estilizados. Essa tela é ideal para quem deseja praticar a criação de páginas modernas e aprimorar habilidades em **Tailwind CSS**.
 
-## Tecnologias
-* HTML
-* Tailwind CSS
+---
 
-## Desktop
-![image](https://user-images.githubusercontent.com/76708357/162736350-2c71a443-f157-42ec-8e3f-bd62d2889b39.png)
+## Tecnologias Utilizadas
+- **HTML:** Para a estruturação e semântica do conteúdo.
+- **Tailwind CSS:** Para estilização rápida e eficiente, com foco em design responsivo e componentes modernos.
 
-## Mobile
-![image](https://user-images.githubusercontent.com/76708357/162736513-dc021074-a2e5-4a19-8715-23b8706a5638.png)
+---
+
+## Funcionalidades
+- Campo para inserção de e-mail.
+- Botão de inscrição estilizado.
+- Layout responsivo e moderno para diferentes dispositivos.
+
+---
+
+Este projeto é ideal para iniciantes que desejam explorar o poder do **Tailwind CSS** em aplicações práticas e também para quem busca inspiração no desenvolvimento de páginas voltadas para marketing digital.
